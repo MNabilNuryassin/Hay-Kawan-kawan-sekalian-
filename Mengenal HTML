@@ -1,0 +1,38 @@
+APA ITU HTML?
+  HTML merupakan kependekan dari Hyper Text Markup Language. 
+Merupakan bahasa standar pemrograman untuk membuat suatu halaman web yang terdiri dari kode-kode singkat tertentu, 
+dimana dengan kode-kode tersebut akan memerintahkan Web browser untuk menampilkan halaman Web yang terdiri dari berbagai macam format tampilan seperti texs, grafik, animasi link maupun audio-video.
+Sedangkan Web browser adalah sebuah progam yang dapat menterjemahkan kode perintah dari dokumen HTML tersebut sehingga dapat kita lihat dan kita baca. 
+Contoh dari Web Browser adalah Internet Exsplorer, Chrome, Mozilla Firefox dll.
+HTML mempunyai file perluasan (extention) htm atau html. Dimana kedua perluasan tersebut adalah sama, jadi anda boleh menyimpan file dokumen HTML dengan extention ".htm" atau ".html".
+Untuk menuliskan kode-kode HTML anda bisa menggunakan Text Editor yang bermacam-macam seperti Notepad, Notepad++, Word Pad, Microsoft Word dll, Sublime, dan banyak lagi. 
+Di bawah ini adalah contoh suatu dokumen HTML yang sangat sederhana. 
+Start Notepad, silahkan mulai dengan mengetikkan (copy/paste) texs di bawah ini pada text editor anda:
+
+
+<html>
+<head>
+  <title>Titel Websiteku</title>
+</head>
+<body>
+
+  Ini adalah dokumen
+  HTML pertamaku
+
+</body>
+</html>
+
+
+
+Simpan file dengan pilihan "save as" dengan nama "latihan.html".
+Kemudian Start browser anda. Pilih menu File, Open dan tujukan ke file tadi anda gunakan " klik Ok, maka halaman website pertama anda akan ditampilkan.
+*Lakukan hal yang sama untuk contoh-contoh selanjutnya.
+Perintah didalam dokumen HTML terdiri dari berbagai struktur penyusun seperti Tag, elemen, atribut dan nilai. 
+Tag terdiri dari lambang-lambang khusus seperti: "<", ">" dan "/", untuk menuliskannya di dalam dokumen HTML dimulai dengan tag pembuka "<...>"dan diakhiri dengan tag penutup "</...>". 
+Kemudian di dalam tag tersebut terdapat teks seperti contoh diatas: 
+  html, head, title,body dan yang lainnya ini disebut dengan Elemen HTML.
+  
+Elemen HTML kemudian ada yang memiliki atribut dan nilai tertentu, seperti contoh untuk membuat warna latar belakang (background): <body bgcolort="0000ff">, body merupakan elemen, bgcolor adalah atribut dan 0000ff merupakan nilai (value).
+Elemen HTML mempunyai tiga hal penting yaitu: tag pembuka, isi, dan tag penutup. Sebagai contoh: Elemen html mempunyai tag pembuka "<html>" dan tag penutup "</html>" dan yang berada diantaranya merupakan isi dari elemen html. 
+Untuk menuliskan Elemen HTML bisa menggunakan huruf besar maupun huruf kecil. Contoh: <HTML>, <HtMl>, <HTml>, <html>, semuanya adalah sama.
+
