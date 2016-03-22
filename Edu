@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Table</title>
+</head>
+<body>
+                    <!-- Didalam table sendiri terdapat tag-tag lainnya seperti <th>,<tr>,<td> -->
+
+<!-- Table berfungsi untuk membuat garis pada keempat atau lebih dari sisi nya, yang beguna untuk merapihkan atau sesuai kebutuhan yang kita inginkan dari table tersebut -->
+
+<table border="1">	<!-- Pertama-tama kita membuat tag <table> terlebih dahulu, dan jangan lupa untuk penutupnya menggunakan / -->
+                      <!-- Didalam tag table saya menggunakan Border yang ber value 1,
+                      dan itu maksudnya akan membuat garis terlihat dengan ketebalan 1,
+                      semakin besar valuenya maka akan semakin tebal garisnya/bordernya -->
+
+	<tr>             	<!-- <tr> atau kepanjangan dari table row, yang kita gunakan untuk mendefinisikan baris pada table -->
+		<th>          	<!-- <th> atau kepanjangan dari table heading,
+		                  yang kita gunakan untuk membuat judul dari sebuah table seperti No., Nama, dll. 
+		                  Biasanya yang ber-tag <th> berikut akan menjadikan
+		                  hurufnya Bold sepert dibawah ini -->
+			BISMILLAH
+		</th>
+	</tr>
+
+	<tr>	<!-- <td> atau kepanjangan dari table data, yang kita gunakan untuk membuat isi dari <th> atau baris atau jika di ms.excel itu seperti layaknya cell -->	
+		<td>
+			Hallo, kita sedang belajar tentang Table!!	<!-- Dan seperti yang anda lihat pada <td> terdapat kalimat, itu data yang akan ditampilkan didalam table tersebut --> 
+		</td>
+	</tr>	
+</table>
+
+</body>
+</html>
